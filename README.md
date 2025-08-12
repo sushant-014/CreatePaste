@@ -32,15 +32,11 @@ It allows users to create, view, share, and manage text snippets easily — perf
 
 ## 📷 Screenshots
 
-<img width="1000" height="800" alt="Screenshot 2025-08-12 191704" src="https://github.com/user-attachments/assets/89a52c33-a2d1-4a04-8265-9857cb81809f" />
-
-
-
 ### Home Page
-![Home Page Screenshot](./screenshots/homepage.png)
+<img width="1000" height="800" alt="Screenshot 2025-08-12 192146" src="https://github.com/user-attachments/assets/70e81221-19dd-40d6-8999-cacc990e4831" />
 
 ### Paste View
-![Paste View Screenshot](./screenshots/pasteview.png)
+<img width="1000" height="800" alt="Screenshot 2025-08-12 191704" src="https://github.com/user-attachments/assets/89a52c33-a2d1-4a04-8265-9857cb81809f" />
 
 ---
 
